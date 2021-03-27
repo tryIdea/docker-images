@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-proxy:v1.17.1
+From k8s.gcr.io/ingress-nginx/controller:v0.41.2
