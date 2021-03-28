@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-secrets:0.0.58
+From gcr.io/jenkinsxio/jx-pod-status:0.0.58
