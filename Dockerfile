@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-webhooks:1.0.11
+From gcr.io/jenkinsxio/bucketrepo:0.1.54
