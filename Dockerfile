@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.22.0
+From gcr.io/jenkinsxio/jx-webhook-events:0.0.56
