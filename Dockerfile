@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-pipelines-visualizer:1.2.0
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.22.0
