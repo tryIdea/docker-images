@@ -1,1 +1,1 @@
-From gcr.io/google-containers/pause:3.1
+From gcr.io/jenkinsxio/lighthouse-foghorn:1.0.11
