@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/ingress-nginx/controller:v0.41.2
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.22.0
