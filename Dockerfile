@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-bot-token:0.0.56
+From gcr.io/jenkinsxio/jx-webhooks:0.0.56
