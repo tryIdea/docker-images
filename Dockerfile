@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/bucketrepo:0.1.54
+From gcr.io/jenkinsxio/jx-build-controller:0.1.0
