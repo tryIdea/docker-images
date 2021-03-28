@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-tekton-controller:1.0.11
+From gcr.io/jenkinsxio/lighthouse-webhooks:1.0.11
