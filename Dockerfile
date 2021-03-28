@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-build-controller:0.1.0
+From gcr.io/jenkinsxio/jx-pipelines-visualizer:1.2.0
