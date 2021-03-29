@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-webhooks:0.0.56
+From k8s.gcr.io/kube-state-metrics/kube-state-metrics:v1.9.8
