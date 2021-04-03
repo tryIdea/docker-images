@@ -1,1 +1,1 @@
-From ghcr.io/jenkins-x/jx-boot:3.2.9
+From gcr.io/jenkinsxio/lighthouse-gc-jobs:1.0.15
