@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-foghorn:1.0.15
+From gcr.io/jenkinsxio/lighthouse-keeper:1.0.15
