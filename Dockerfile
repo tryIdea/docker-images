@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-git-operator:0.0.171
+From ghcr.io/jenkins-x/jx-boot:3.2.9
