@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-state-metrics/kube-state-metrics:v1.9.8
+From gcr.io/jenkinsxio/jx-git-operator:0.0.171
