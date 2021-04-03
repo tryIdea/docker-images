@@ -1,1 +1,1 @@
-From ghcr.io/jenkins-x-plugins/jx-preview:0.0.177
+From gcr.io/jenkinsxio/lighthouse-foghorn:1.0.15
