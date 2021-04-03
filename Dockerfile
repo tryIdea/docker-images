@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-gc-jobs:1.0.15
+From ghcr.io/jenkins-x-plugins/jx-preview:0.0.177
