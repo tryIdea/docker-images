@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-webhooks:1.0.15
+From gcr.io/distroless/base
