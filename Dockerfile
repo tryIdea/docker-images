@@ -1,1 +1,1 @@
-From ghcr.io/jenkins-x/jx-admin:0.0.174
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.22.0
