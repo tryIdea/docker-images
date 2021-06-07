@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.23.0
+From gcr.io/jenkinsxio/jx-updatebot:0.0.65
