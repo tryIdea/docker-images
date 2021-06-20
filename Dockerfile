@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.11.3
+From gcr.io/kaniko-project/executor:debug-v0.22.0
