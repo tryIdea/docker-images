@@ -1,1 +1,1 @@
-From chartmuseum/chartmuseum:v0.7.1
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/creds-init:v0.11.3
