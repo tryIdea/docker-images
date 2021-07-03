@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-webhooks:0.0.843
+From gcr.io/jenkinsxio/lighthouse-gc-jobs:0.0.843
