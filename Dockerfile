@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-jx-controller:0.0.121
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.11.3
