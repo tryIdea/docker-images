@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:debug-v0.22.0
+From gcr.io/jenkinsxio/builder-go:2.1.155-778
