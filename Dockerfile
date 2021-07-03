@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/nexus:0.1.36
+From gcr.io/jenkinsxio/nginx-ingress-controller:0.30.0
