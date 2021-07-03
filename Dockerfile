@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.11.3
+From gcr.io/jenkinsxio/lighthouse-webhooks:0.0.843
