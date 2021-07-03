@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/nexus:0.1.36
+From gcr.io/jenkinsxio/lighthouse-foghorn:0.0.843
