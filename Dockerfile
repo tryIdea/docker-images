@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/builder-jx:2.1.155-778
+From gcr.io/jenkinsxio/nexus:0.1.36
