@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/lighthouse-keeper:0.0.843
+From gcr.io/jenkinsxio/nexus:0.1.36
