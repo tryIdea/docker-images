@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.12.0
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/creds-init:v0.11.3
