@@ -1,1 +1,1 @@
-From gcr.io/kaniko-project/executor:debug-v0.22.0
+From gcr.io/jenkinsxio/exposecontroller:2.3.118
