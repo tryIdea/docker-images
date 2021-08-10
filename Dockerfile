@@ -1,1 +1,1 @@
-From k8s.gcr.io/ingress-nginx/controller:v0.41.2
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.25.0
