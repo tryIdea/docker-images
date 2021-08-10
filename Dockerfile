@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.25.0
+From k8s.gcr.io/ingress-nginx/controller:v0.41.2
