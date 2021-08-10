@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/jx-git-operator:0.0.177
+From k8s.gcr.io/ingress-nginx/controller:v0.41.2@sha256:1f4f402b9c14f3ae92b11ada1dfe9893a88f0faeb0b2f4b903e2c67a0c3bf0de
