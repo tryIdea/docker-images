@@ -1,1 +1,1 @@
-From k8s.gcr.io/busybox
+From gcr.io/jenkinsxio/jx-git-operator:0.0.177
