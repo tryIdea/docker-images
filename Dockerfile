@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.17.1
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.30.0
