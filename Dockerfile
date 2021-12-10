@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.22.0
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.30.0
